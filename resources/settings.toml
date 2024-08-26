@@ -1,0 +1,6 @@
+[editor]
+font_size = 16
+background_color = "#292a2d"
+foreground_color = "#ffffff"
+font = "resources/monofonto.otf"
+fullscreen = false

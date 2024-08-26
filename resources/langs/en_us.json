@@ -1,0 +1,31 @@
+{
+  "root": {
+    "title": "Echo's Light Weight Code Editor"
+  },
+  "code": {
+    "default_extension": "py",
+    "default_extension_filetype": "python file",
+    "file_types": {
+      "pyw": {
+        "ext": ".pyw",
+        "desc": "Windowed Python"
+      },
+      "js": {
+        "ext": ".js",
+        "desc": "Javascript"
+      },
+      "html": {
+        "ext": ".html",
+        "desc": "HTML Webpage File"
+      },
+      "css": {
+        "ext": ".css",
+        "desc": "Stylesheet files"
+      },
+      "md": {
+        "ext": ".md",
+        "desc": "Markdown Format"
+      }
+    }
+  }
+}

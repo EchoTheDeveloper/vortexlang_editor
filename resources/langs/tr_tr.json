@@ -1,0 +1,12 @@
+{
+  "root": {
+    "title": "Vortexlang Editor"
+  },
+  "menu_bar": {
+    "file": "File",
+    "new": "New",
+    "open": "Open",
+    "save": "Save",
+    "exit": "Exit"
+  }
+}
