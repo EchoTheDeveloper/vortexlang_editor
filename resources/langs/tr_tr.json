@@ -1,12 +1,12 @@
 {
   "root": {
-    "title": "Vortexlang Editor"
+    "title": "Vortexlang Düzenleyici"
   },
   "menu_bar": {
-    "file": "File",
-    "new": "New",
-    "open": "Open",
-    "save": "Save",
-    "exit": "Exit"
+    "file": "Dosya",
+    "new": "Yeni",
+    "open": "Aç",
+    "save": "Kaydet",
+    "exit": "Çıkış"
   }
 }
